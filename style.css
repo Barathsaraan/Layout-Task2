@@ -1,0 +1,311 @@
+*{
+	margin:0;
+	padding:0;
+	box-sizing:border-box;
+}
+.container{
+ width:90%;
+ margin:0 auto;
+}
+.row{
+ display:flex;
+ flex-wrap:wrap;
+}
+header{
+ background-color:yellow;
+ padding:20px 0px;
+}
+.item1{
+	background-color:green;
+	height:50px;
+}
+.item2{
+	background-color:green;
+	height:50px;
+}
+.about{
+	background-color:green;
+	padding:20px 0px;
+}
+.item3{
+	background-color:yellow;
+	height:500px;
+} 
+.mentor{
+	background-color:yellow;
+	padding:35px 0px;
+}
+.item4{
+	background-color:green;
+	height:500px;
+}
+.item5{
+	background-color:green;
+	height:500px;
+}
+.totalstudent{
+	background-color:green;
+	padding:35px 0px;
+}
+.item6{
+	background-color:yellow;
+	height:150px;
+}
+.item7{
+	background-color:yellow;
+	height:150px;
+}
+
+.item8{
+	background-color:yellow;
+	height:150px;
+}
+.item9{
+	background-color:yellow;
+	height:150px;
+}
+.choosementor{
+	background-color:yellow;
+	padding:25px 0px;
+}
+.item10{
+	background-color:green;
+	height:200px;
+	
+}
+.item11{
+	background-color:green;
+	height:150px;
+}
+.item12{
+	background-color:green;
+	height:150px;
+}
+.item13{
+	background-color:green;
+	height:150px;
+}
+.total{
+	background-color:gray;
+	padding:15px 0px;
+}
+.item14{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item15{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item16{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item17{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item18{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item19{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item20{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item21{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item22{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item23{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item24{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+.item25{
+	background-color:pink;
+	height:25px;
+	margin-bottom:10px;
+}
+
+.courses{
+	background-color:green;
+	padding:25px 0px;
+}
+.item26{
+	background-color:yellow;
+	height:500px;
+}
+.item27{
+	background-color:yellow;
+	height:500px;
+}
+.item28{
+	background-color:yellow;
+	height:500px;
+}
+.designer{
+	background-color:yellow;
+	padding:25px 0px;
+}
+.item29{
+	background-color:green;
+	height:500px;
+}
+.item30{
+	background-color:green;
+	height:500px;
+}
+.item31{
+	background-color:green;
+	height:500px;
+}
+.address{
+	background-color:green;
+	padding:25px 0px;
+}
+.item32{
+	background-color:yellow;
+	height:500px;
+}
+.item33{
+	background-color:yellow;
+	height:500px;
+}
+.item34{
+	background-color:yellow;
+	height:500px;
+}
+.item35{
+	background-color:yellow;
+	height:500px;
+}
+
+footer{
+	background-color:yellow;
+	padding:25px 0px;
+}
+.item36{
+	background-color:green;
+	height:100px;
+}
+.item37{
+	background-color:green;
+	height:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.col-1{
+    width: 8.33%;
+    padding: 0 15px;
+}
+.col-2{
+    width: 16.66%;
+    padding: 0 15px;
+}
+.col-3{
+    width: 25%;
+    padding: 0 15px;
+}
+
+.col-4{
+    width: 33.33%;
+    padding: 0 15px;
+}
+.col-5{
+    width: 41.66%;
+    padding: 0 15px;
+}
+.col-6{
+    width: 50%;
+    padding: 0 15px;
+}
+.col-7{
+    width: 58.33%;
+    padding: 0 15px;
+}
+.col-8{
+    width: 66.66%;
+    padding: 0 15px;
+}
+.col-9{
+    width: 75%;
+    padding: 0 15px;
+}
+.col-10{
+    width: 83.33%;
+    padding: 0 15px;
+}
+.col-11{
+    width: 91.66%;
+    padding: 0 15px;
+}
+.col-12{
+    width: 100%;
+    padding: 0 15px;
+}
